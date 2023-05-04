@@ -89,11 +89,3 @@ Asegúrate que tu postwork contenga todo lo siguiente, ya que esto se evaluará 
 - [ ] Es posible consultar todos los empleados con GET.
 
 - [ ] Es posible consultar un empleado por su ID con GET.
-
-
-<br/>
-<br/>
-
-[Regresar ](../Readme.md)(Sesión 07)
-
-[Siguiente ](../../Sesion-08/Readme.md)(Sesión 08)
